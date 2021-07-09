@@ -1,0 +1,6 @@
+.board-game {
+  background-color: orange;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+}
